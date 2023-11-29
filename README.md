@@ -1,4 +1,4 @@
-# Name: Sri VIgnesh G
+# Name: Sri Vignesh G
 # Reference Number: 23012556
 
 # Experiment-3: Implementation of Half Adder and Full Adder circuit
