@@ -61,6 +61,8 @@ endmodule
 ### Half Adder:
 ![ex3 hfld](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/c91bd5fd-7d18-4059-a3cc-a0df43391ed4)
 
+
+
 ### Full Adder
 ![ex3 ffld](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/a0864c87-041f-4010-9f19-ec1c32f10e31)
 
@@ -68,6 +70,8 @@ endmodule
 ### TRUTH TABLE 
 #### Half Adder:
 ![tt 3](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/12ebab4c-963b-44db-a84a-1cd036f6ae7b)
+
+
 
 #### Full Adder:
 ![e3 ff](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/7ba27f60-6e29-4ed9-9aef-369c1f732f60)
@@ -78,7 +82,9 @@ endmodule
 #### Half Adder:
 ![e3 tm hf](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/7d103398-9d7a-48f9-9f45-cbb3a0e0c0fb)
 
-#### FUll Adder:
+
+
+#### Full Adder:
 ![e3 ff tm](https://github.com/SriVignesh-G/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147576510/898fdac1-85be-4cd4-a63d-a513c184857c)
 
 ### Result:
